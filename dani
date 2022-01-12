@@ -9,5 +9,5 @@ http://192.168.1.2:8080/1.ogg
 http://192.168.1.2:8084/1.ogg
 #EXTINF:0 type="stream" channelId="-2" name="COL: DISNEY (ʜᴅ)" group="COLOMBIA" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AWin_Sport_logo.png&psig=AOvVaw1mzx1YAfxI8GeXcnJGCIWY&ust=1641068843928000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPC4zIrwjvUCFQAAAAAdAAAAABAX", WINSPRT (ʜᴅ)
 http://192.168.1.2:8081/1.ogg
-#EXTINF:0 type="stream" channelId="-2" name="COL: CANAL 13 (ʜᴅ)" group="COLOMBIA" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AWin_Sport_logo.png&psig=AOvVaw1mzx1YAfxI8GeXcnJGCIWY&ust=1641068843928000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPC4zIrwjvUCFQAAAAAdAAAAABAX", WINSPRT (ʜᴅ)
-http://192.168.1.2:8085/1.ogg
+#EXTINF:0 type="stream" channelId="4" name="COL: CANAL 13 (ʜᴅ)" group="COLOMBIA" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", CANAL 13
+http://192.168.1.2:8083/1.ogg
