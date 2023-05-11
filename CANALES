@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4" name="COL: RCN  (ʜᴅ)" group="COLOMBIA" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", RCN
-http://192.168.1.2:8083/1.ogg
-#EXTINF:0 type="stream" channelId="3" name="COL:  CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://i.ibb.co/xs482LJ/caracol.png" tvg-country="co", CARACOL
-http://192.168.1.2:8082/1.ogg
-#EXTINF:0 type="stream" channelId="1" name="CARTOON NETWORK (ʜᴅ)" group="INFANTIL" logo="https://i.ibb.co/TmYhmSz/cartoon-network.png", CARTOON NETWORK (ʜᴅ)
-http://192.168.1.2:8080/1.ogg
-#EXTINF:0 type="stream" channelId="-5" name="COL: LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flakalle.bluradio.com%2F&psig=AOvVaw1c8GTwvY4zigscnHVIwmQY&ust=1635968874475000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiz1JK5-vMCFQAAAAAdAAAAABAD" tvg-country="co" background="https://www.google.com/url?sa=i&url=https%3A%2F%2Flakalle.bluradio.com%2F&psig=AOvVaw1c8GTwvY4zigscnHVIwmQY&ust=1635968874475000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiz1JK5-vMCFQAAAAAdAAAAABAD", LA KALLE (ʜᴅ)
-http://192.168.1.2:8084/1.ogg
-#EXTINF:0 type="stream" channelId="-2" name="COL: DISNEY (ʜᴅ)" group="COLOMBIA" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AWin_Sport_logo.png&psig=AOvVaw1mzx1YAfxI8GeXcnJGCIWY&ust=1641068843928000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPC4zIrwjvUCFQAAAAAdAAAAABAX", WINSPRT (ʜᴅ)
-http://192.168.1.2:8081/1.ogg
+#EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i2.paste.pics/f3abe4415e90765f85d20737dcfdb006.png", La Despechada TV | CO
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
